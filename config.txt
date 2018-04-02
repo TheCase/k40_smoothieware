@@ -92,7 +92,7 @@ beta_min                                     0                #
 beta_max                                     230              #
 gamma_min_endstop                            1.29^            #
 #gamma_max_endstop                           1.28^            #
-gamma_homing_direction                       home_to_min      #
+gamma_homing_direction                       home_to_max      #
 gamma_min                                    0                #
 gamma_max                                    200              #
 
